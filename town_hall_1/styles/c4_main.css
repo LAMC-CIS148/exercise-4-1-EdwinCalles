@@ -28,5 +28,11 @@ main h3 {
 }
 
 /* the styles for the footer */
-footer {
-	align-items: center;
+footer p {
+	text-align: center;
+}
+
+/* italicizes any link that has the focus or has the mouse hovering over it*/
+a:hover a:focus {
+	font-style: italic;
+}
