@@ -75,6 +75,7 @@ section li {
 	padding-bottom: .35em;
 }
 
+
 /* the styles for the article */
 article {
 	padding: .5em 0;
@@ -93,6 +94,7 @@ article img {
 	margin: .5em 0 1em 1em;
 	border: 1px solid black;
 }
+
 
 /* the styles for the aside */
 aside {
@@ -113,10 +115,12 @@ aside img {
 	padding-bottom: 1em;
 }
 
+
 /* the styles for the footer */
 footer {
 	background-color: #931420;
 	clear: both;
+
 
 }
 footer p {
